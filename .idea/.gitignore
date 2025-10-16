@@ -1,0 +1,30 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+#Local Properties
+local.properties
+# Android Studio & IntelliJ IDEA Files
+*.iml
+.idea/caches
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations/
+.idea/vcs.xml
+.idea/workspace.xml
+#Gradle Files
+.gradle/
+build/
+
+#Build Artifacts and Outputs
+captures/
+.DS_Store
+*.apk
+*.aab
+*.ap_
+*.apks
+*.dex
+*.class
+*.jar
+*.keystore
+*.jks
