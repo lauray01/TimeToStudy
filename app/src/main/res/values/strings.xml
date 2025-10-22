@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TimeToStudy</string>
+    <string name="time_to_study">Time To Study</string>
+    <string name="timer_20_00">Timer = 20:00</string>
 </resources>
