@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/pomodoro"
+    android:title="@string/icon_pomodoro"
+    android:icon="@drawable/sharp_alarm_24"/>
+    <item
+        android:id="@+id/analytics"
+        android:title="@string/icon_analytics"
+        android:icon="@drawable/outline_area_chart_24"/>
+
+</menu>
