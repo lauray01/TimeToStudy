@@ -6,6 +6,10 @@
     <string name="icon_analytics">Analytics</string>
     <string name="pomodoro_fragment">Pomodoro</string>
     <string name="analytics_fragment">Analytics</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="twentyFive_min">25 min</string>
+    <string name="ten_min">10 min</string>
+    <string name="five_min">5 min</string>
+    <string name="stop">Stop</string>
 </resources>
